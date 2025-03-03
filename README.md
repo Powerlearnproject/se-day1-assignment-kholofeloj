@@ -6,14 +6,41 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+- Software Engineering is the process of designing, developing, testing and maintaining software using systematic methods.
+ Its focus is mainly on creating reliable, efficient, and secure software by applying engineering principles.
+
+- In the tech industry, it helps manage complex systems, ensures software works correctly, scales for growth, remains secure, and reduces long-term costs. Without it, modern tech, from apps to large systems, wouldn't function effectively or safely.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+- 1960s: Birth of software engineering to tackle growing software complexity.
+- 1970s: Structured programming improved design and maintainability.
+- 1990s: Agile methodology introduced flexibility, speed, and customer-focused development.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+The Software Development Life Cycle (SDLC) consists of the following phases:
+
+1. Planning: Define project scope, goals, resources, timeline, and risks.
+2. Feasibility Study: Assess technical, financial, and operational feasibility of the project.
+3. Design: Create system architecture, UI/UX designs, and database structures.
+4. Development: Write and implement the code based on design specifications.
+5. Testing: Evaluate the software for bugs, performance, and security issues
+6. Deployment: Release the software for use by end users.
+7. Maintenance: Provide ongoing support, fix bugs, and update the software as needed.
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+Waterfall:
+- Approach: Linear and sequential, with each phase completed before moving to the next.
+- Best for: Projects with fixed, well-defined requirements (e.g., large infrastructure projects).
+- Limitations: Less flexible to changes during development.
+
+Agile:
+- Approach: Iterative and flexible, with work broken into sprints and continuous feedback.
+- Best for: Projects with evolving or unclear requirements (e.g., software, mobile apps).
+- Limitations: Less suited for projects with fixed requirements and strict timelines.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
